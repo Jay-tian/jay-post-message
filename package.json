@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "component-emitter": "^1.2.1"
-  }
+  },
+  "name": "jay-post-message",
+  "description": "post-message emitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-tian/jay-post-message.git"
+  },
+  "keywords": [
+    "post-message",
+    "emitter"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-tian/jay-post-message/issues"
+  },
+  "homepage": "https://github.com/Jay-tian/jay-post-message#readme"
 }
